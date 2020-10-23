@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/20.10.15/miui_LAURUS_20.10.15_a3f373b226_10.0.zip
+  ROM_URL: https://bigota.d.miui.com/20.9.4/miui_MI8Lite_20.9.4_8b364d6684_10.0.zip
   ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
